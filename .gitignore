@@ -1,0 +1,9 @@
+*.pyc
+*.o
+*.cmi
+*.cmo
+*.cmx
+
+x*
+test*
+
